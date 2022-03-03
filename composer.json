@@ -1,0 +1,22 @@
+{
+    "name": "cuponeria/transfeera-php-sdk",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "7.4.x-dev",
+        "illuminate/collections": "10.x-dev",
+        "phpunit/phpunit": "10.0.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cuponeria\\TransfeeraPhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "victor ventura",
+            "email": "victor.ventura@cuponeria.com.br"
+        }
+    ],
+    "minimum-stability": "dev"
+}
