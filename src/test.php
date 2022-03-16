@@ -1,0 +1,1 @@
+$this->tranfeera->getX();
